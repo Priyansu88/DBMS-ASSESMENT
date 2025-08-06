@@ -48,7 +48,7 @@ PART B
 
 
 
-PART C
+PART C.
 
 
 
